@@ -1,74 +1,118 @@
-# Startup - Free Next.js Startup Website Template
+✅ Tymor Tech – Modern IT Solutions & Software Development
 
-Startup is a free, open-source, and premium-quality [**Next.js startup website template**](https://nextjstemplates.com/templates/startup) that comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
+Tymor Tech is a modern, innovative, and full-stack IT solutions company delivering high-quality software, enterprise-grade applications, and secure cloud-based platforms for businesses of all sizes.
 
-If you're looking for a high-quality and visually appealing, feature-rich Next.js Template for your next startup, SaaS, or business website, this is the perfect choice and starting point for you!
+We specialize in developing web applications, mobile apps, SaaS platforms, API systems, and digital transformation solutions powered by today’s most advanced technologies such as Next.js, Angular, Flutter, Node.js, and cloud infrastructure.
 
-### ✨ Key Features
-- Crafted for Startup and SaaS Business
-- Next.js and Tailwind CSS
-- All Essential Business Sections and Pages
-- High-quality and Clean Design
-- Dark and Light Version
-- TypeScript Support
-and Much More ...
+Whether you're a startup, small business, or enterprise, Tymor Tech provides everything you need to launch, scale, and maintain reliable digital products.
 
-### 🙌 Detailed comparison between the Free and Pro versions of Startup
+✨ What We Offer
 
-| Feature             | Free | Pro |
-|---------------------|------------|----------|
-| Next.js Landing Page             | ✅ Yes      | ✅ Yes      |
-| All The Integrations - Auth, DB, Payments, Blog and many more ...             | ❌ No      | ✅ Yes |
-| Homepage Variations             | 1      | 2 |
-| Additional SaaS Pages and Components             | ❌ No      | ✅ Yes |
-| Functional Blog with Sanity       | ❌ No      | ✅ Yes |
-| Use with Commercial Projects            | ✅ Yes      | ✅ Yes      |
-| Lifetime Free Updates             | ✅ Yes      | ✅ Yes |
-| Email Support       | ❌ No         | ✅ Yes       |
-| Community Support         | ✅ Yes         | ✅ Yes       |
+Custom Web & Mobile App Development
 
+Enterprise-level SaaS Platforms
 
-### [🔥 Get Startup Pro](https://nextjstemplates.com/templates/saas-starter-startup)
+Cloud Integration & DevOps
 
-[![Startup Pro](https://raw.githubusercontent.com/NextJSTemplates/startup-nextjs/main/startup-pro.webp)](https://nextjstemplates.com/templates/saas-starter-startup)
+High-performance UI/UX Design
 
-Startup Pro - Expertly crafted for fully-functional, high-performing SaaS startup websites. Comes with with Authentication, Database, Blog, and all the essential integrations necessary for SaaS business sites.
+API Development & Backend Engineering
 
+Full Product Lifecycle Support
 
-- [🚀 View Free Demo](https://startup.nextjstemplates.com/)
+Secure, scalable, and future-ready architecture
 
-- [🚀 View Pro Demo](https://startup-pro.nextjstemplates.com/)
+Full dark/light theme support for modern UI
 
-- [📦 Download](https://nextjstemplates.com/templates/startup)
+TypeScript-first development
 
-- [🔥 Get Pro](https://nextjstemplates.com/templates/saas-starter-startup)
+🧩 Core Advantages of Tymor Tech
+Feature / Benefit	Standard Plan	Enterprise Plan
+Modern Web Development (Next.js, Angular)	✅ Yes	✅ Yes
+Full Product Integrations (Auth, DB, APIs)	❌ Limited	✅ Full
+Custom Dashboards & Analytics	❌ No	✅ Yes
+Advanced SaaS Modules & Features	❌ No	✅ Yes
+Blog / CMS Integration	Optional	Fully Managed
+Commercial Use	✅ Yes	✅ Yes
+Lifetime Updates & Maintenance	Optional	Included
+Dedicated Technical Support	Basic Support	Priority Support
+🚀 Why Businesses Choose Tymor Tech
 
-- [🔌 Documentation](https://nextjstemplates.com/docs)
+Enterprise-grade development standards
 
-### ⚡ Deploy Now
+Future-proof technology stack
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fstartup-nextjs)
+High-quality design & user experience
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/startup-nextjs)
+Flexible, scalable, and secure architecture
 
+Transparent pricing with lifetime value
 
-### 📄 License
-Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
+End-to-end engineering & support
 
-### 💜 Support
-If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
+📦 Development & Deployment Options
 
-### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
+We support deployment on all major platforms:
 
-### Update Log
+⚡ One-click Cloud Deployment
 
-**10 April 2025**
-- Fix peer deps issue with Next.js 15
-- Upgrade to tailwind v4
-- Refactored blog cards for handling edge cases(text ellipsis on bio, keeping author details at the bottom etc.)
-- Re-wrote blog details page with icons separation, fallback author image and better markup.
-- Fixed duplicate key errors on homepage.
-- Separated icons on theme-switcher button, and refactored scroll-to-top button.
+Vercel
 
-**29 Jan 2025**
-- Upgraded to Next.js 15
+Netlify
+
+AWS
+
+Google Cloud
+
+Azure
+
+Your applications can be deployed using CI/CD pipelines, automated environments, or custom cloud architectures.
+
+📄 License
+
+All projects developed by Tymor Tech come with complete commercial usage rights.
+You fully own your product — lifetime.
+
+💜 Support & Collaboration
+
+We value long-term partnerships.
+If you appreciate our work and want to collaborate, we offer:
+
+Dedicated technical teams
+
+Long-term maintenance plans
+
+Startup/enterprise growth support
+
+📘 Changelog / Update Log
+10 April 2025
+
+Upgraded frameworks to latest stable versions
+
+Migrated all UI components to Tailwind v4
+
+Improved blog layout structure
+
+Enhanced API error handling
+
+Performance improvements across dashboard modules
+
+29 Jan 2025
+
+Migrated major apps to Next.js 15
+
+Updated component architecture for faster rendering
+
+🎉 Want a polished “Tymor Tech – Company Profile Page”?
+
+I can create a beautifully structured:
+
+Complete About Us page
+
+Company Profile (PDF style)
+
+Website content (Home, Services, About, Contact)
+
+Mission / Vision / Values
+
+Service offerings page

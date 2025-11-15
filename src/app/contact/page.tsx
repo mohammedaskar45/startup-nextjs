@@ -4,9 +4,9 @@ import Contact from "@/components/Contact";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Contact Page | Free Next.js Template for Startup and SaaS",
-  description: "This is Contact Page for Startup Nextjs Template",
-  // other metadata
+  title: "Tymor Tech – Modern SaaS & Startup Technology Partner",
+  description:
+    "Build scalable SaaS platforms, enterprise software, and digital products with Tymor Tech's expert engineering team.",
 };
 
 const ContactPage = () => {

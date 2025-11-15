@@ -6,10 +6,10 @@ const Features = () => {
   return (
     <>
       <section id="features" className="py-16 md:py-20 lg:py-28">
-        <div className="container">
+           <div className="container">
           <SectionTitle
-            title="Main Features"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            title="Why Choose Tymor Tech?"
+            paragraph="We deliver modern, scalable, and high-performance digital solutions designed to help businesses grow. Our services combine strong engineering, clean UI/UX, and reliable technology to ensure long-term success."
             center
           />
 

@@ -5,9 +5,9 @@ import Image from "next/image";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog Details Page | Free Next.js Template for Startup and SaaS",
-  description: "This is Blog Details Page for Startup Nextjs Template",
-  // other metadata
+  title: "Tymor Tech – Modern SaaS & Startup Technology Partner",
+  description:
+    "Build scalable SaaS platforms, enterprise software, and digital products with Tymor Tech's expert engineering team.",
 };
 
 const BlogDetailsPage = () => {

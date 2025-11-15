@@ -12,9 +12,9 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Free Next.js Template for Startup and SaaS",
-  description: "This is Home for Startup Nextjs Template",
-  // other metadata
+  title: "Tymor Tech – Modern SaaS & Startup Technology Partner",
+  description:
+    "Build scalable SaaS platforms, enterprise software, and digital products with Tymor Tech's expert engineering team.",
 };
 
 export default function Home() {

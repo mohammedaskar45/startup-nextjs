@@ -22,10 +22,11 @@ const AboutSectionOne = () => {
       <div className="container">
         <div className="border-b border-body-color/[.15] pb-16 dark:border-white/[.15] md:pb-20 lg:pb-28">
           <div className="-mx-4 flex flex-wrap items-center">
+            {/* Left Side Content */}
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Building Smart, Scalable & Future-Ready Digital Solutions"
+                paragraph="Tymor Tech is an advanced IT solutions company delivering high-performance web apps, mobile apps, enterprise software, and cloud-based platforms. We transform businesses through modern engineering, world-class UI/UX, and secure, scalable technologies."
                 mb="44px"
               />
 
@@ -34,21 +35,26 @@ const AboutSectionOne = () => {
                 data-wow-delay=".15s"
               >
                 <div className="mx-[-12px] flex flex-wrap">
+                
+                  {/* Column 1 */}
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Enterprise-grade development" />
+                    <List text="Cloud-ready architecture" />
+                    <List text="Long-term scalability" />
                   </div>
 
+                  {/* Column 2 */}
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Next.js, Angular, Flutter experts" />
+                    <List text="Detailed documentation" />
+                    <List text="Developer-friendly workflows" />
                   </div>
+
                 </div>
               </div>
             </div>
 
+            {/* Right Side Image */}
             <div className="w-full px-4 lg:w-1/2">
               <div className="relative mx-auto aspect-25/24 max-w-[500px] lg:mr-0">
                 <Image
@@ -65,6 +71,7 @@ const AboutSectionOne = () => {
                 />
               </div>
             </div>
+
           </div>
         </div>
       </div>
